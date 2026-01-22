@@ -195,7 +195,7 @@ Modules used in the project:
 
 ##  Testing & Documentation
 
-* Module specifications available in: `docs/Module_Specification.md`
+* Module specifications available in: `Module Specification Document.pdf`
 * Test cases and reports available in: `Test-plan.xlsx`
 
 ---

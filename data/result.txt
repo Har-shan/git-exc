@@ -1,8 +1,9 @@
-ID        Name            S1  G1  S2  G2  S3  G3  S4  G4  S5  G5  Total   %     Grade CGPA
+ID        Name            S1 G1  S2 G2  S3 G3  S4 G4  S5 G5  Total   %    Grade   CGPA
 ----------------------------------------------------------------------------
 25MCMT03  Harshan         75 A   78 A   87 A+  72 B+  91 O    403   80.60   A    8.40
 25MCMt13  Rigved          55 C   60 B   80 A   65 B+  67 B+   327   65.40   B+   6.60
 25MCMT42  Raja            93 O   90 O   98 O   87 A+  99 O    467   93.40   O    9.80
+
 Class Average Percentage : 79.80
 Highest Percentage       : 93.40
 Lowest Percentage        : 65.40

@@ -33,9 +33,9 @@ GIT-EXC/
 │   ├── students.txt     (input file)
 │   └── result.txt       (generated output file)
 │
-├── docs/
-│   ├── Module_Specification.md
-│   └── Test_Plan.md
+|
+|── Module Specification Document.pdf
+│── Test-Plan.xlsx
 │
 └── README.md
 ```
